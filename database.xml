@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:xmlDatabase xmlns:ns2="model">
+    <records>
+        <Record>
+            <rollNo>0</rollNo>
+            <BookName>HARRY POTTER</BookName>
+            <issueDate>2015-08-31T00:00:00+05:30</issueDate>
+            <returnDate>2015-09-30T00:00:00+05:30</returnDate>
+            <BookId>200</BookId>
+        </Record>
+    </records>
+    <registers>
+        <Register>
+            <rollNo>1</rollNo>
+            <email>dude@gmail.com</email>
+            <firstName>gmail</firstName>
+            <lastName>dsouza</lastName>
+        </Register>
+        <Register>
+            <rollNo>1</rollNo>
+            <email>dude@gmail.com</email>
+            <firstName>gmail</firstName>
+            <lastName>dsouza</lastName>
+        </Register>
+    </registers>
+</ns2:xmlDatabase>
